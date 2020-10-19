@@ -1,4 +1,4 @@
-This is a currency conversion tool used with pure JS and HTML .<br>
+This is a currency conversion tool built with pure JS and HTML .<br>
 URL Link : https://padaliya-kapil.github.io/currencyConvertorJS/ <br>
 This convertor supports 170 currencies and uses https://free.currencyconverterapi.com/ as the source for conversion data . 
 Note  :  The free verision of https://free.currencyconverterapi.com/ api supports only 100 requests per hour .
